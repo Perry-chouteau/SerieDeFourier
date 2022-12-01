@@ -10,9 +10,6 @@
 
     #include "Ecs.hpp"
 
-    #include "SpriteManager.hpp"
-    #include "AudioManager.hpp"
-
     #include "UserComponent.hpp"
 
     #include "SfmlRef.hpp"
